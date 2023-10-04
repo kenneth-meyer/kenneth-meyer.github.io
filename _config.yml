@@ -23,9 +23,10 @@ email: kmeyer2@utexas.edu
 description: >- # this means to ignore newlines until "baseurl:"
   BORN IN 1999
 
+
+baseurl: "" # the subpath of your site, e.g. /blog
 ## set the footer image! ##
 footer-img: "/images/logos/RGB.png"
-baseurl: "" # the subpath of your site, e.g. /blog
 url: https://kenneth-meyer.github.io/ # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
