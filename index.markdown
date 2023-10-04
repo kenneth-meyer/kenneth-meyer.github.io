@@ -5,5 +5,6 @@
 layout: home
 ---
 
-# Welcome
 Welcome to my webpage! See the tabs above to learn more about me!
+
+| ![This is me in Fall 2023 outside the GDC](images/headshot.jfif)|
