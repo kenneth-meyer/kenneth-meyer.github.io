@@ -23,6 +23,8 @@ email: kmeyer2@utexas.edu
 description: >- # this means to ignore newlines until "baseurl:"
   BORN IN 1999
 
+## google analytics tag, saw this online, seems to match my tag.
+gtag: "G-LQHPBT7G1K"
 
 baseurl: "" # the subpath of your site, e.g. /blog
 ## set the footer image! ##
@@ -32,7 +34,7 @@ url: https://kenneth-meyer.github.io/ # the base hostname & protocol for your si
 #github_username:  jekyll
 
 # this should be the correct tag but I'm not 100% sure; need to check this out later this week.
-google_analytics: UA-624918072-9
+#google_analytics: UA-624918072-9
 
 # Build settings
 theme: minima
