@@ -27,6 +27,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   |![Leaflet deformation under dead load](images/research/taccster_TV_no_colorbar_transparentbackground.png)|
   [Leaflet deformation under dead load](images/research/taccster_TV_no_colorbar_transparentbackground.png)
 
+## set the footer image! ##
+footer-img: "/images/logos.RGB.png"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://kenneth-meyer.github.io/ # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
