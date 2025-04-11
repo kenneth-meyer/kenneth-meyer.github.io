@@ -6,7 +6,7 @@ permalink: /mentorship/
 
 ## Mentorship and Teaching
 
-As a 3rd year Ph.D. student, I have had various tutoring and mentoring experiences.
+As a 3rd year Ph.D. student, I have had various tutoring and mentoring experiences at The University of Texas at Austin. I find joy in them; they are what prevents me from prematurely pivoting my current career route.
 
 ### Graduate
 #### Fall 2024 - Spring 2025
