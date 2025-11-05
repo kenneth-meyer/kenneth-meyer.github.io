@@ -5,6 +5,6 @@
 layout: home
 ---
 
-Welcome to my webpage! See the tabs above to learn more about me!
+Welcome to my webpage! I'm a PhD Student studying Computationa Science Engineering and Mathematics at The University of Texas at Austin.
 
 | ![This is me in Fall 2023 outside the GDC](images/headshot.jfif)|
